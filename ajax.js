@@ -1,1 +1,3 @@
-console.log('correcto');
+//console.log('correcto');
+
+document.querySelector('#boton')
